@@ -4,10 +4,12 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Sistema Libreria</title>
+
+<link rel="styLesheet" href="${pageContext.request.contextPath}/resources/css/estilos1.css"/>
 </head>
 <body>
-         <h1> HOLA MUNDO DESDE LIBRERIA TOMCAT </h1>
+         <h1> HOLA MUNDO DESDE LIBRERIA :3 </h1>
          
 </body>
 </html>
